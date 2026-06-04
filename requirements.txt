@@ -1,0 +1,2 @@
+# git-context - standalone tool, no deps needed
+# Only Python 3.8+ required
